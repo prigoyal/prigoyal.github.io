@@ -1,0 +1,8 @@
+@article{goyal2022vision,
+      title={Vision Models Are More Robust And Fair When Pretrained On Uncurated Images Without Supervision}, 
+      author={Priya Goyal and Quentin Duval and Isaac Seessel and Mathilde Caron and Ishan Misra and Levent Sagun and Armand Joulin and Piotr Bojanowski},
+      year={2022},
+      eprint={2202.08360},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}

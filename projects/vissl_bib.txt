@@ -1,0 +1,8 @@
+@misc{goyal2021vissl,
+  author =       {Priya Goyal and Quentin Duval and Jeremy Reizenstein and Matthew Leavitt and Min Xu and
+                  Benjamin Lefaudeux and Mannat Singh and Vinicius Reis and Mathilde Caron and Piotr Bojanowski and
+                  Armand Joulin and Ishan Misra},
+  title =        {VISSL},
+  howpublished = {\url{https://github.com/facebookresearch/vissl}},
+  year =         {2021}
+}

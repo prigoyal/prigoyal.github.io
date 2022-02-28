@@ -1,0 +1,8 @@
+@article{goyal2021selfsupervised,
+      title={Self-supervised Pretraining of Visual Features in the Wild}, 
+      author={Priya Goyal and Mathilde Caron and Benjamin Lefaudeux and Min Xu and Pengchao Wang and Vivek Pai and Mannat Singh and Vitaliy Liptchinsky and Ishan Misra and Armand Joulin and Piotr Bojanowski},
+      year={2021},
+      eprint={2103.01988},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}

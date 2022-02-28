@@ -1,0 +1,6 @@
+@inproceedings{goyal2019self,
+     title={{Scaling and Benchmarking Self-Supervised Visual Representation Learning}},
+     author={Priya Goyal and Dhruv Mahajan and Abhinav Gupta and Ishan Misra},
+     booktitle={ICCV},
+     year={2019}
+}

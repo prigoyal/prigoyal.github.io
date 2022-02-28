@@ -1,0 +1,6 @@
+@inproceedings{caron2020swav,
+  title={Unsupervised Learning of Visual Features by Contrasting Cluster Assignments},
+  author={Mathilde Caron, Ishan Misra, Julien Mairal, Priya Goyal, Piotr Bojanowski, Armand Joulin},
+  year={2020},
+  booktitle={NeurIPS},
+}

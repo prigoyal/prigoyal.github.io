@@ -1,0 +1,8 @@
+@article{pizzi2022selfsupervised,
+      title={A Self-Supervised Descriptor for Image Copy Detection}, 
+      author={Ed Pizzi and Sreya Dutta Roy and Sugosh Nagavara Ravindra and Priya Goyal and Matthijs Douze},
+      year={2022},
+      eprint={2202.10261},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}

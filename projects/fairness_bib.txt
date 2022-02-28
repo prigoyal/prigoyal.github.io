@@ -1,0 +1,8 @@
+@article{goyal2022fairness,
+      title={Fairness Indicators for Systematic Assessments of Visual Feature Extractors},
+      author={Priya Goyal and Adriana Romero Soriano and Caner Hazirbas and Levent Sagun and Nicolas Usunier},
+      year={2022},
+      eprint={2202.07603},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
