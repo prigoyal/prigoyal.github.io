@@ -1,0 +1,6 @@
+@article{alabdulmohsin2024clip,
+  title={Clip the bias: How useful is balancing data in multimodal learning?},
+  author={Alabdulmohsin, Ibrahim and Wang, Xiao and Steiner, Andreas and Goyal, Priya and D'Amour, Alexander and Zhai, Xiaohua},
+  journal={arXiv preprint arXiv:2403.04547},
+  year={2024}
+}
